@@ -2,7 +2,7 @@ import { useState } from "react"
 import "./styles.css"
 
 export default function App() {
-    // pappa
+    // pappa reale
     const [newItem, setNewItem] =  useState("")
     // class is a reserved keyword in React
     return ( 
